@@ -15,8 +15,8 @@ Race = ""
 #prompt user for information
 Name = input("what is your name?")
 Desc = input("Describe yourself:")
-Gender = input("What gender are you? (male / female / unsure):")
-Race = input ("what race are you? (Pixie / Vulcan / Gelfling / Troll) :"
+Gender = input("What gender are you? (Male / Female / unsure):")
+Race = input ("what race are you? (Pixie / Vulcan / Gelfling / Troll) :")
 
 # output of character sheet
 fancy_line = "##################################"
